@@ -1,7 +1,17 @@
-#API Gemini Module
+#Gemini Chatbot with Python
 
-Library Used:
-import google.generativeai as genai
+This is a simple command-line chatbot using Google's **Gemini 1.5 Flash** model via the `google.generativeai` Python library. You can interact with Gemini just like you would in a chat window!
 
-You will be requiring your own api key(you can get it from here)
+#Features
+
+- Chat interactively with Google's Gemini model
+- Powered by `gemini-1.5-flash` for fast responses
+- Simple and minimal CLI interface
+- Easy to set up and use
+
+Requirements
+
+- Python 3.8+
+- A valid **Google AI Studio API key**
+
 
